@@ -134,7 +134,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '--data_root',
         type=str,
-        default=r"/kaggle/input/dataset/data/data",
+        default=r"/kaggle/working/data",
         help='Where you want to save the output input_folder')
     # Sample arguments
     parser.add_argument(
